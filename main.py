@@ -1,3 +1,5 @@
+import test
+
 def get_operation():
     op = input('Operação: ')
 
